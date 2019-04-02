@@ -15,11 +15,11 @@
             B，B+，B*树
             LSM 树
         BitSet
-    * 常用算法
-        * 排序、查找算法
-            * [选择排序(https://github.com/ShareTheWorld/Study/blob/master/code/sort/SelectionSort.c)
-            * [冒泡排序](https://github.com/ShareTheWorld/Study/blob/master/code/sort/BubbleSort.c)
-            * [插入排序]((https://github.com/ShareTheWorld/Study/blob/master/code/sort/InsertSort.c)
+    常用算法
+        排序、查找算法
+            [选择排序](https://github.com/ShareTheWorld/Study/blob/master/code/sort/SelectionSort.c)
+            [冒泡排序](https://github.com/ShareTheWorld/Study/blob/master/code/sort/BubbleSort.c)
+            [插入排序]((https://github.com/ShareTheWorld/Study/blob/master/code/sort/InsertSort.c)
             快速排序
             归并排序
             希尔排序
