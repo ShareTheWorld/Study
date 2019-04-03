@@ -21,7 +21,7 @@
        * [选择排序](https://github.com/ShareTheWorld/Study/blob/master/code/algorithm/sort/SelectionSort.c)
        * [冒泡排序](https://github.com/ShareTheWorld/Study/blob/master/code/algorithm/sort/BubbleSort.c)
        * [插入排序](https://github.com/ShareTheWorld/Study/blob/master/code/algorithm/sort/InsertSort.c)
-       * 快速排序
+       * [快速排序](https://github.com/ShareTheWorld/Study/blob/master/code/algorithm/sort/QuickSort.c)
        * 归并排序
        * 希尔排序
        * 堆排序
