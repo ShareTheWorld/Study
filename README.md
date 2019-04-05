@@ -23,7 +23,7 @@
        * [插入排序](https://github.com/ShareTheWorld/Study/blob/master/code/algorithm/sort/InsertSort.c)
        * [快速排序](https://github.com/ShareTheWorld/Study/blob/master/code/algorithm/sort/QuickSort.c)
        * [归并排序](https://github.com/ShareTheWorld/Study/blob/master/code/algorithm/sort/MergeSort.c)
-       * 希尔排序
+       * [希尔排序](https://github.com/ShareTheWorld/Study/blob/master/code/algorithm/sort/ShellSort.c)
        * 堆排序
        * 计数排序
        * 桶排序
